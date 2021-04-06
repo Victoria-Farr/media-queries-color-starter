@@ -1,3 +1,4 @@
+![Skillcrush Student Work Screenshot Banner](img/git-readme-header.png)
 # media-queries-color-starter
 
 This is a practice project created using Skillcrush.com coursework:<https://github.com/skillcrush>
