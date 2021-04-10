@@ -3,6 +3,8 @@
 
 This is a practice project created using Skillcrush.com coursework:<https://github.com/skillcrush>
 
+It can be viewed at: https://victoria-farr.github.io/media-queries-color-starter/
+
 ## Prerequisites
 
 - A simple, up-to-date browser than can read and display HTML5 & CSS is all that's needed. 🤓
